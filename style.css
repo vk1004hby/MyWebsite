@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(220, 208, 240);
+}
+
+
+.heading{
+    display: flex;
+    
+}
+
+h1{
+    background-color: rgb(220, 208, 240);
+    border: 5px solid beige;
+}
+
+.row{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100% 
+}
